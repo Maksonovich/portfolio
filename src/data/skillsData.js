@@ -4,7 +4,6 @@ export const skillsData = [
     'Javascript',
     'CSS',
     'React',
-    'Docker',
     'nodejs',
     'Bootstrap',
     'Typescript',
@@ -15,7 +14,6 @@ export const skillsData = [
     'Vite',
     'Git',
     'GitHub',
-    'GraphQl',
     'RestApi',
     'Sass',
     'Less'
